@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/johnbdot/)
 [![LinkedIn](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=Twitter)](https://twitter.com/johnny_parlay)
+![](https://komarev.com/ghpvc/?username=johnbdot&style=flat-square)
 
 <!--
 **johnbdot/johnbdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
