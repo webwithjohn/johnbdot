@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 #
 
 ✨ I'm a self-taught developer  
@@ -10,7 +11,7 @@
 
 ### Stat that 📊
 
-<hr style="border:1rem solid gray"> </hr>
+#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbdot)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnbdot)](https://github.com/anuraghazra/github-readme-stats)
