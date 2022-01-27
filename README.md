@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<hr style="border:1rem solid gray"> </hr>
+#
 
 ✨ I'm a self-taught developer  
 🛣 I started my coding journey over a year ago  
