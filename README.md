@@ -1,6 +1,6 @@
 ### Hi there 👋
 
----
+___
 
 ✨ I'm a self-taught developer  
 🛣 I started my coding journey over a year ago  
@@ -11,7 +11,7 @@
 
 ### Stat that 📊
 
----
+___
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbdot)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnbdot)](https://github.com/anuraghazra/github-readme-stats)
