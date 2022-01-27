@@ -1,3 +1,5 @@
+---
+
 ### Hi there 👋
 
 ---
@@ -8,6 +10,8 @@
 🤔 I’m looking for help with landing a junior developer role  
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/johnbdot/)
 [![LinkedIn](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=Twitter)](https://twitter.com/johnny_parlay)
+
+---
 
 ### Stat that 📊
 
