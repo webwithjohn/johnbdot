@@ -1,25 +1,9 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/johnbdot/)
-[![LinkedIn](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=Twitter)](https://twitter.com/johnny_parlay)
-![](https://komarev.com/ghpvc/?username=johnbdot&style=flat-square)
-
-<!--
-**johnbdot/johnbdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ✨ I'm a self-taught developer  
 🛣 I started my coding journey over a year ago  
 🌱 I’m currently learning React and a bit of C#  
 🤔 I’m looking for help with landing a junior developer role
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/johnbdot/)
+[![LinkedIn](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=Twitter)](https://twitter.com/johnny_parlay)
