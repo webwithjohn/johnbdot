@@ -1,4 +1,5 @@
-### Hi there 👋#
+### Hi there 👋
+#
 
 ✨ I'm a self-taught developer  
 🛣 I started my coding journey over a year ago  
