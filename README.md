@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning React!
-- 🤔 I’m looking for help with landing a junior developer role!
+✨ I'm a self-taught developer
+🛣 I started my coding journey over a year ago
+🌱 I’m currently learning React and a bit of C#
+🤔 I’m looking for help with landing a junior developer role
