@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/johnbdot/)
+
 <!--
 **johnbdot/johnbdot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
