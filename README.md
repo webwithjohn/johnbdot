@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:1rem solid gray"> </hr>
 
 ✨ I'm a self-taught developer  
 🛣 I started my coding journey over a year ago  
@@ -11,7 +11,7 @@
 
 ### Stat that 📊
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:1rem solid gray"> </hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbdot)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnbdot)](https://github.com/anuraghazra/github-readme-stats)
