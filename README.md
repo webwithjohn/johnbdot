@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 #
 
 ✨ I'm a self-taught developer  
