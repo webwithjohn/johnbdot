@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✨ I'm a self-taught developer  
-🛣 I started my coding journey over a year ago 
+🛣 I started my coding journey over a year ago  
 📚 Learning resources I've used are freeCodeCamp, The Odin Project, YouTube and more!  
 🌱 I’m currently learning React and a bit of C#  
 🚨 I’m available for open junior developr roles! 
