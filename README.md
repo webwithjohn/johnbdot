@@ -4,7 +4,7 @@
 🛣 I started my coding journey over a year ago  
 📚 I've learned from freeCodeCamp, The Odin Project, YouTube and more!  
 🌱 I’m currently learning React and a bit of C#  
-🚨 I’m available for open junior developr roles! 
+🚨 I’m open for junior developr roles! 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/johnbdot/)
 [![Twitter](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=Twitter)](https://twitter.com/johnny_parlay)
