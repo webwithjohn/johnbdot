@@ -3,8 +3,8 @@
 ✨ I'm a self-taught developer  
 🛣 I started my coding journey over a year ago  
 📚 I've learned from freeCodeCamp, The Odin Project, YouTube and many others!  
-🌱 I’m currently learning React and a bit of C#  
-🚨 I’m open for junior developer roles! 
+🌱 I’m currently learning a bit of React and C#  
+🚨 I’m open for Junior developer roles! 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/johnbdot/)
 [![Twitter](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=Twitter)](https://twitter.com/johnny_parlay)
