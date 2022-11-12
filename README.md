@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-✨ I'm a self-taught developer  
-🛣 I started my coding journey in 2020  
-📚 I've learned from freeCodeCamp, Udemy, YouTube and many others!  
-🌱 I’m currently learning Full-Stack Web Development  
-🚨 I’m looking for Junior developer roles! 
+✨ I'm an aspiring developer 
+🛣 I've learned how to code on and off since 2020
+🌱 I am currently learning React
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/johnbdot/)
 [![Twitter](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=Twitter)](https://twitter.com/johnny_parlay)
