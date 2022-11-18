@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ✨ I'm an aspiring developer  
-🛣 I've learned how to code on and off since 2020  
+🛣 I've learned how to code on and off since 2019  
 🌱 I am currently learning React
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/johnbdot/)
