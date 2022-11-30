@@ -1,5 +1,6 @@
 ### 👋 Hi there 
 
+💁🏻‍♂️ My name is John Bouakhasith  
 ✨ I'm an aspiring web developer  
 🛣 I've learned how to code on and off since 2019  
 🌱 I am currently learning React and WordPress development  
