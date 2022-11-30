@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 ✨ I'm an aspiring web developer  
 🛣 I've learned how to code on and off since 2019  
