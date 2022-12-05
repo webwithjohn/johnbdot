@@ -6,7 +6,7 @@
 🌱 I am currently learning React and WordPress development  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/johnbdot/)
-[![Twitter](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=Twitter)](https://twitter.com/johnny_parlay)
+<!--[![Twitter](https://img.shields.io/badge/twitter-fff?style=for-the-badge&logo=Twitter)](https://twitter.com/johnny_parlay)-->
 <!--[![Portfolio](https://img.shields.io/badge/portfolio-FFE162?style=for-the-badge)](https://johnbdot.github.io/portfolio/)-->
 
 ### Recent project 🚀
